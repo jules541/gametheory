@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { getBotAction, strategies } from './strategies'
+import { getBotAction } from './strategies'
 import type { RoundResult } from '@/types'
 
 describe('Bot Strategies', () => {
